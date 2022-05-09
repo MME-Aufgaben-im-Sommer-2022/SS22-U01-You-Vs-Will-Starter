@@ -14,4 +14,4 @@ Test your word skill against the great barde! You have one minute to remember as
 
 # Erste Übungsaufgabe: You vs. Will
 
-Die Anleitung zur Aufgabe (*Handout*) finden Sie [hier](https://multimedia-engineering.git-pages.uni-regensburg.de/mme-online/#/Aufgaben/index).      
+Die Anleitung zur Aufgabe (*Handout*) finden Sie [hier](https://multimedia-engineering.git-pages.uni-regensburg.de/mme-online/#/Demos/you-vs-will).      
