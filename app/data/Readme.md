@@ -1,1 +1,0 @@
-The word list was created using data from [*The Folger Shakespeare* corpus](https://shakespeare.folger.edu/download/) provided under [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/deed.en_US) license.
